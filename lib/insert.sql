@@ -3,6 +3,6 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy'
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 4, 'Female', 'Brown', 'Sanguine', 'Yes');
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 1, 'Male', 'Black', 'Melancholy', 'Yes');
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Melissa', 5, 'Female', 'Brown', 'Sanguine', 'Yes');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Fiona', 2, 'Female', 'Black', 'Phlegmatic', 'Yes');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 2, 'Male', 'Black', 'Phlegmatic', 'Yes');
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Abe', 5, 'Male', 'Black', 'Sanguine', 'Yes');
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Abe', , 'Male', 'Black', 'Sanguine', 'Yes');
