@@ -1,1 +1,1 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Abe', 3, 'male', '');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Abe', 3, 'Male', '');
